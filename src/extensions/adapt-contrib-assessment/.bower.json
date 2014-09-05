@@ -1,0 +1,25 @@
+{
+  "name": "adapt-contrib-assessment",
+  "homepage": "https://github.com/adaptlearning/adapt-contrib-assessment",
+  "authors": [
+    "Brian Quinn <brian@learningpool.com>"
+  ],
+  "description": "A basic assessment for the Adapt Framework which attaches to an 'article' object to group various question components and provide a score with feedback",
+  "main": "/js/adapt-contrib-assessment.js",
+  "keywords": [
+    "adapt-plugin",
+    "adapt-extension"
+  ],
+  "license": "GPLv3",
+  "version": "1.1.0",
+  "_release": "1.1.0",
+  "_resolution": {
+    "type": "version",
+    "tag": "v1.1.0",
+    "commit": "b1b5c5d6a303897ef199962bbd4a987d3feeaacb"
+  },
+  "_source": "git://github.com/adaptlearning/adapt-contrib-assessment.git",
+  "_target": "~1.1.0",
+  "_originalSource": "adapt-contrib-assessment",
+  "_direct": true
+}
