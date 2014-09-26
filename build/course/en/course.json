@@ -1,9 +1,9 @@
 {
     "_id": "course",
     "_type": "course",
-    "title": "Welcome to Web-Course One",
-    "displayTitle": "Welcome to Web-Course One",
-    "body": "This course is supposed to help you be able to author content in this new web and mobile responsive platform",
+    "title": "KICD Digital Academy",
+    "displayTitle": "Welcome to KICD Digital Academy",
+    "body": "This course is supposed to help you be able to learn some of the most difficult concepts using this digital platform. the various models used to relay the concepts simplify and make it fun learning those concepts. these various tools include text, videos, audio, animations and interactive quizzes complete with feedback",
     "_buttons": {
         "submit": "Submit",
         "reset": "Reset",
